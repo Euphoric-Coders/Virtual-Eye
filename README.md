@@ -1,4 +1,4 @@
-# Virual-Eye
+# Virtual-Eye
 A virtual assistant for the visually impaired.
 
 # Requirements(Modules/Dependancies):
